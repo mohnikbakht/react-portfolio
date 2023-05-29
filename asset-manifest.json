@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.283d76b4.css",
-    "main.js": "/react-portfolio/static/js/main.df70c1e5.js",
+    "main.js": "/react-portfolio/static/js/main.45308b4c.js",
     "static/js/787.1ed0c42c.chunk.js": "/react-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/KneeMS.png": "/react-portfolio/static/media/KneeMS.561fe9fba40320e9baab.png",
     "static/media/SeismoNet.png": "/react-portfolio/static/media/SeismoNet.af93ce88473f62c77835.png",
+    "static/media/GUIs.png": "/react-portfolio/static/media/GUIs.5bad7cff693f4686aff6.png",
     "static/media/synth_scg_generator.png": "/react-portfolio/static/media/synth_scg_generator.17faba6bacb7f2b57863.png",
     "static/media/scg_denoising_bhi.png": "/react-portfolio/static/media/scg_denoising_bhi.1e9ea0fa97a7ba4bcd3c.png",
     "static/media/scg_denoising_window.png": "/react-portfolio/static/media/scg_denoising_window.a385831b872bddc11b2b.png",
@@ -20,11 +21,11 @@
     "static/media/pre.svg": "/react-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/react-portfolio/index.html",
     "main.283d76b4.css.map": "/react-portfolio/static/css/main.283d76b4.css.map",
-    "main.df70c1e5.js.map": "/react-portfolio/static/js/main.df70c1e5.js.map",
+    "main.45308b4c.js.map": "/react-portfolio/static/js/main.45308b4c.js.map",
     "787.1ed0c42c.chunk.js.map": "/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.283d76b4.css",
-    "static/js/main.df70c1e5.js"
+    "static/js/main.45308b4c.js"
   ]
 }
