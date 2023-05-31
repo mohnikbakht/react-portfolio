@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.96c3e281.css",
-    "main.js": "/static/js/main.4269e394.js",
+    "main.js": "/static/js/main.56db2267.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/KneeMS.png": "/static/media/KneeMS.561fe9fba40320e9baab.png",
     "static/media/SeismoNet.png": "/static/media/SeismoNet.af93ce88473f62c77835.png",
@@ -21,11 +21,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.96c3e281.css.map": "/static/css/main.96c3e281.css.map",
-    "main.4269e394.js.map": "/static/js/main.4269e394.js.map",
+    "main.56db2267.js.map": "/static/js/main.56db2267.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96c3e281.css",
-    "static/js/main.4269e394.js"
+    "static/js/main.56db2267.js"
   ]
 }
