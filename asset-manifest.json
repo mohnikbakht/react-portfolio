@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.75774da8.css",
-    "main.js": "/static/js/main.98003fb3.js",
+    "main.css": "/static/css/main.a6f1fb99.css",
+    "main.js": "/static/js/main.39b29b13.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hobbies.png": "/static/media/hobbies.ec18cc1a8ec90adec1d9.png",
+    "static/media/profile_pic.png": "/static/media/profile_pic.fa5e83d9291aab9dcfbd.png",
+    "static/media/thisisfine.png": "/static/media/thisisfine.b4cf4f5abf9573e8451a.png",
     "static/media/KneeMS.png": "/static/media/KneeMS.561fe9fba40320e9baab.png",
     "static/media/SeismoNet.png": "/static/media/SeismoNet.af93ce88473f62c77835.png",
     "static/media/GUIs.png": "/static/media/GUIs.5bad7cff693f4686aff6.png",
@@ -17,15 +20,14 @@
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/sdoh_nlp.png": "/static/media/sdoh_nlp.eecbe3dc019344160361.png",
     "static/media/project_blob.png": "/static/media/project_blob.9eb9d5ab56140fa16f2e.png",
-    "static/media/avatar.svg": "/static/media/avatar.8fc56d0c2a053f1fc99bac094a511997.svg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.75774da8.css.map": "/static/css/main.75774da8.css.map",
-    "main.98003fb3.js.map": "/static/js/main.98003fb3.js.map",
+    "main.a6f1fb99.css.map": "/static/css/main.a6f1fb99.css.map",
+    "main.39b29b13.js.map": "/static/js/main.39b29b13.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75774da8.css",
-    "static/js/main.98003fb3.js"
+    "static/css/main.a6f1fb99.css",
+    "static/js/main.39b29b13.js"
   ]
 }
