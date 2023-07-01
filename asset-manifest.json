@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a6042cbc.css",
-    "main.js": "/static/js/main.006e655c.js",
+    "main.js": "/static/js/main.12547a58.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/hobbies.png": "/static/media/hobbies.6ca7859c4300192346a0.png",
     "static/media/thisisfine.png": "/static/media/thisisfine.6f2c2ce398dc9c6e753d.png",
@@ -18,7 +18,7 @@
     "static/media/choa_shunt_health.png": "/static/media/choa_shunt_health.f7e934a32bbdd6f5e61e.png",
     "static/media/Georgia_Tech_seal.png": "/static/media/Georgia_Tech_seal.e39ea4461305b1a6d07b.png",
     "static/media/uniTehran.png": "/static/media/uniTehran.14820511abe196726a18.png",
-    "static/media/resume_website.pdf": "/static/media/resume_website.7d312a2866f947dfac17.pdf",
+    "static/media/resume_website.pdf": "/static/media/resume_website.4d21fc70a561bad41053.pdf",
     "static/media/BOLD.png": "/static/media/BOLD.9186bc460a2b5357aac1.png",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/sdoh_nlp.png": "/static/media/sdoh_nlp.eecbe3dc019344160361.png",
@@ -26,11 +26,11 @@
     "static/media/pre.svg": "/static/media/pre.2b7e6a9025ff9cef24ee.svg",
     "index.html": "/index.html",
     "main.a6042cbc.css.map": "/static/css/main.a6042cbc.css.map",
-    "main.006e655c.js.map": "/static/js/main.006e655c.js.map",
+    "main.12547a58.js.map": "/static/js/main.12547a58.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6042cbc.css",
-    "static/js/main.006e655c.js"
+    "static/js/main.12547a58.js"
   ]
 }
