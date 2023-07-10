@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2fc41f35.css",
-    "main.js": "/static/js/main.204128a1.js",
+    "main.js": "/static/js/main.1c56b6e0.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/SeismoNet.png": "/static/media/SeismoNet.af93ce88473f62c77835.png",
     "static/media/GUIs.png": "/static/media/GUIs.5bad7cff693f4686aff6.png",
@@ -23,11 +23,11 @@
     "static/media/pre.svg": "/static/media/pre.2b7e6a9025ff9cef24ee.svg",
     "index.html": "/index.html",
     "main.2fc41f35.css.map": "/static/css/main.2fc41f35.css.map",
-    "main.204128a1.js.map": "/static/js/main.204128a1.js.map",
+    "main.1c56b6e0.js.map": "/static/js/main.1c56b6e0.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fc41f35.css",
-    "static/js/main.204128a1.js"
+    "static/js/main.1c56b6e0.js"
   ]
 }
