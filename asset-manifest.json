@@ -1,36 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6042cbc.css",
-    "main.js": "/static/js/main.12547a58.js",
+    "main.css": "/static/css/main.2fc41f35.css",
+    "main.js": "/static/js/main.204128a1.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/hobbies.png": "/static/media/hobbies.6ca7859c4300192346a0.png",
-    "static/media/thisisfine.png": "/static/media/thisisfine.6f2c2ce398dc9c6e753d.png",
-    "static/media/KneeMS.png": "/static/media/KneeMS.561fe9fba40320e9baab.png",
-    "static/media/profile_pic.png": "/static/media/profile_pic.e0de31b98021e72efde9.png",
     "static/media/SeismoNet.png": "/static/media/SeismoNet.af93ce88473f62c77835.png",
-    "static/media/background_publication.png": "/static/media/background_publication.4e2b09c030a8e118d17d.png",
-    "static/media/background_projects.png": "/static/media/background_projects.f642a317a05b702d5d98.png",
-    "static/media/background_about.png": "/static/media/background_about.c710b7862c11104a97d5.png",
     "static/media/GUIs.png": "/static/media/GUIs.5bad7cff693f4686aff6.png",
+    "static/media/hobbies.png": "/static/media/hobbies.fbcb24f5e67196110526.png",
     "static/media/synth_scg_generator.png": "/static/media/synth_scg_generator.17faba6bacb7f2b57863.png",
     "static/media/scg_denoising_bhi.png": "/static/media/scg_denoising_bhi.1e9ea0fa97a7ba4bcd3c.png",
     "static/media/scg_denoising_window.png": "/static/media/scg_denoising_window.9f3ced6402f4c3662908.png",
+    "static/media/profile_pic.png": "/static/media/profile_pic.ef4cd2ce2574c40eeb9a.png",
+    "static/media/thisisfine.png": "/static/media/thisisfine.63f38883da5bc02fc78c.png",
     "static/media/choa_shunt_health.png": "/static/media/choa_shunt_health.f7e934a32bbdd6f5e61e.png",
     "static/media/Georgia_Tech_seal.png": "/static/media/Georgia_Tech_seal.e39ea4461305b1a6d07b.png",
     "static/media/uniTehran.png": "/static/media/uniTehran.14820511abe196726a18.png",
     "static/media/resume_website.pdf": "/static/media/resume_website.4d21fc70a561bad41053.pdf",
     "static/media/BOLD.png": "/static/media/BOLD.9186bc460a2b5357aac1.png",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/background_publication.png": "/static/media/background_publication.da292e912e79b952f8ad.png",
+    "static/media/background_about.png": "/static/media/background_about.179f01ebfb75baace780.png",
+    "static/media/background_projects.png": "/static/media/background_projects.7ee861caf5ae2850c474.png",
     "static/media/sdoh_nlp.png": "/static/media/sdoh_nlp.eecbe3dc019344160361.png",
-    "static/media/project_blob.png": "/static/media/project_blob.9eb9d5ab56140fa16f2e.png",
     "static/media/pre.svg": "/static/media/pre.2b7e6a9025ff9cef24ee.svg",
     "index.html": "/index.html",
-    "main.a6042cbc.css.map": "/static/css/main.a6042cbc.css.map",
-    "main.12547a58.js.map": "/static/js/main.12547a58.js.map",
+    "main.2fc41f35.css.map": "/static/css/main.2fc41f35.css.map",
+    "main.204128a1.js.map": "/static/js/main.204128a1.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6042cbc.css",
-    "static/js/main.12547a58.js"
+    "static/css/main.2fc41f35.css",
+    "static/js/main.204128a1.js"
   ]
 }
