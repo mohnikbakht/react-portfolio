@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2fc41f35.css",
-    "main.js": "/static/js/main.1c56b6e0.js",
+    "main.js": "/static/js/main.63c151e5.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/SeismoNet.png": "/static/media/SeismoNet.af93ce88473f62c77835.png",
     "static/media/GUIs.png": "/static/media/GUIs.5bad7cff693f4686aff6.png",
@@ -14,7 +14,7 @@
     "static/media/choa_shunt_health.png": "/static/media/choa_shunt_health.f7e934a32bbdd6f5e61e.png",
     "static/media/Georgia_Tech_seal.png": "/static/media/Georgia_Tech_seal.e39ea4461305b1a6d07b.png",
     "static/media/uniTehran.png": "/static/media/uniTehran.14820511abe196726a18.png",
-    "static/media/resume_website.pdf": "/static/media/resume_website.4d21fc70a561bad41053.pdf",
+    "static/media/resume_website.pdf": "/static/media/resume_website.c6112563428437471dea.pdf",
     "static/media/BOLD.png": "/static/media/BOLD.9186bc460a2b5357aac1.png",
     "static/media/background_publication.png": "/static/media/background_publication.da292e912e79b952f8ad.png",
     "static/media/background_about.png": "/static/media/background_about.179f01ebfb75baace780.png",
@@ -23,11 +23,11 @@
     "static/media/pre.svg": "/static/media/pre.2b7e6a9025ff9cef24ee.svg",
     "index.html": "/index.html",
     "main.2fc41f35.css.map": "/static/css/main.2fc41f35.css.map",
-    "main.1c56b6e0.js.map": "/static/js/main.1c56b6e0.js.map",
+    "main.63c151e5.js.map": "/static/js/main.63c151e5.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fc41f35.css",
-    "static/js/main.1c56b6e0.js"
+    "static/js/main.63c151e5.js"
   ]
 }
