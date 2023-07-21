@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2fc41f35.css",
-    "main.js": "/static/js/main.e36379a8.js",
+    "main.css": "/static/css/main.eb6c1da2.css",
+    "main.js": "/static/js/main.59bce20a.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/hobbies.png": "/static/media/hobbies.fbcb24f5e67196110526.png",
     "static/media/profile_pic.png": "/static/media/profile_pic.ef4cd2ce2574c40eeb9a.png",
@@ -12,8 +12,8 @@
     "static/media/SeismoNet.png": "/static/media/SeismoNet.72408e98a3a1fa95376e.png",
     "static/media/background_publication.png": "/static/media/background_publication.da292e912e79b952f8ad.png",
     "static/media/synth_scg_generator.png": "/static/media/synth_scg_generator.8b5f083196674e3e949f.png",
+    "static/media/background_about.png": "/static/media/background_about.095cfc63d97bca5222e7.png",
     "static/media/BOLD.png": "/static/media/BOLD.51c4ad77ab4ba01467ec.png",
-    "static/media/background_about.png": "/static/media/background_about.179f01ebfb75baace780.png",
     "static/media/scg_denoising_bhi.png": "/static/media/scg_denoising_bhi.f977b4fb472b598994a1.png",
     "static/media/scg_denoising_window.png": "/static/media/scg_denoising_window.0638fea33a7ba3b87e5d.png",
     "static/media/background_projects.png": "/static/media/background_projects.7ee861caf5ae2850c474.png",
@@ -22,12 +22,12 @@
     "static/media/choa_shunt_health.png": "/static/media/choa_shunt_health.b14b4201256d216d1365.png",
     "static/media/pre.svg": "/static/media/pre.2b7e6a9025ff9cef24ee.svg",
     "index.html": "/index.html",
-    "main.2fc41f35.css.map": "/static/css/main.2fc41f35.css.map",
-    "main.e36379a8.js.map": "/static/js/main.e36379a8.js.map",
+    "main.eb6c1da2.css.map": "/static/css/main.eb6c1da2.css.map",
+    "main.59bce20a.js.map": "/static/js/main.59bce20a.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fc41f35.css",
-    "static/js/main.e36379a8.js"
+    "static/css/main.eb6c1da2.css",
+    "static/js/main.59bce20a.js"
   ]
 }
