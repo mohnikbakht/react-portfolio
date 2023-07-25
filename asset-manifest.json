@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eb6c1da2.css",
-    "main.js": "/static/js/main.579c13e7.js",
+    "main.js": "/static/js/main.fbc11114.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/hobbies.png": "/static/media/hobbies.fbcb24f5e67196110526.png",
     "static/media/scg_denoising_window.png": "/static/media/scg_denoising_window.e33ab6bd640622c8daa4.png",
@@ -12,22 +12,20 @@
     "static/media/uniTehran.png": "/static/media/uniTehran.14820511abe196726a18.png",
     "static/media/resume_website.pdf": "/static/media/resume_website.57f0f6a7be460e5557e4.pdf",
     "static/media/scg_denoising_bhi.png": "/static/media/scg_denoising_bhi.1572d035ae712d2f7674.png",
-    "static/media/SeismoNet.png": "/static/media/SeismoNet.72408e98a3a1fa95376e.png",
     "static/media/choa_shunt_health.png": "/static/media/choa_shunt_health.e731f81f26fa83f9cb63.png",
     "static/media/background_publication.png": "/static/media/background_publication.da292e912e79b952f8ad.png",
     "static/media/sdoh_nlp.png": "/static/media/sdoh_nlp.846932268a4dc067ad88.png",
     "static/media/background_about.png": "/static/media/background_about.095cfc63d97bca5222e7.png",
-    "static/media/BOLD.png": "/static/media/BOLD.51c4ad77ab4ba01467ec.png",
     "static/media/GUIs.png": "/static/media/GUIs.9a398e9636c65e22ea9e.png",
     "static/media/background_projects.png": "/static/media/background_projects.7ee861caf5ae2850c474.png",
     "static/media/pre.svg": "/static/media/pre.2b7e6a9025ff9cef24ee.svg",
     "index.html": "/index.html",
     "main.eb6c1da2.css.map": "/static/css/main.eb6c1da2.css.map",
-    "main.579c13e7.js.map": "/static/js/main.579c13e7.js.map",
+    "main.fbc11114.js.map": "/static/js/main.fbc11114.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb6c1da2.css",
-    "static/js/main.579c13e7.js"
+    "static/js/main.fbc11114.js"
   ]
 }
